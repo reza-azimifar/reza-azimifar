@@ -40,15 +40,19 @@
 ![Static Badge](https://img.shields.io/badge/github%20-%20%23282828?style=for-the-badge&logo=github&labelColor=%23363636&color=%23282828)&nbsp;
 
 <h1>⚙️ GitHub Analytics</h1>
-<p align="center"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=simamojtahedi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> &nbsp; <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=simamojtahedi&layout=compact&langs_count=8&theme=dark"/>
+<p align="center"><img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=simamojtahedi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> &nbsp; <img height="180em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=simamojtahedi&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 <h1>🤝🏻 Get In Touch</h1>
 
-<p align="center">
+<p align="justify">
+Whether you have a project in mind or simply want to make contact, don't hesitate to reach out to me through email or social media.
 
-<a href="https://rezaexplains.com/">![Static Badge](https://img.shields.io/badge/website%20-%20%23282828?style=for-the-badge&logoColor=%23f0f0f0&labelColor=%23f0f0f0&color=%23282828&cacheSeconds=https%3A%2F%2Frezaexplains.com%2F)</a>
-<a href="mailto:azimifar.reza@gmail.com@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail%20-%20%23282828?style=for-the-badge&logo=gmail&color=%23282828)
-</a>
-
+I'm excited to hear from you!
 </p>
+
+<a href="https://rezaexplains.com/">![Static Badge](https://img.shields.io/badge/website%20-%20%23282828?style=for-the-badge&logo=esri&logoColor=%23CCFF00&color=%23282828)</a>
+<a href="mailto:azimifar.reza@gmail.com@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail%20-%20%23282828?style=for-the-badge&logo=gmail&color=%23282828)</a>
+<a href="https://www.linkedin.com/in/reza-azimifar/">![Static Badge](https://img.shields.io/badge/linkedin%20-%20%23282828?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&color=%23282828)</a>
+<a href="https://www.instagram.com/reza.explains/">![Static Badge](https://img.shields.io/badge/instagram%20-%20%23282828?style=for-the-badge&logo=instagram&color=%23282828)
+</a>
