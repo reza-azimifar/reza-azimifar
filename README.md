@@ -1,18 +1,18 @@
-<h1 id="header"><a href="https://rezaexplains.com/"><img src="logo.png" alt="Reza Explains!" width="50px"/></a>&nbsp;Reza Explains!</h1>
+<h1><a href="https://rezaexplains.com/"><img src="logo.png" alt="Reza Explains!" width="50px"/></a>&nbsp;Reza Explains!</h1>
 
-<h3 id="aboutMe">Hey there👋🏻, I'm Reza Azimifar!</h3>
+<h3>Hey there👋🏻, I'm Reza Azimifar!</h3>
 
-<p>For over 6 years, I've immersed myself in the world of programming, driven by a passion for unraveling complex challenges. My expertise lies in crafting sleek designs and writing efficient code that powers digital projects to success.</p>
+<p align="justify">For over 6 years, I've immersed myself in the world of programming, driven by a passion for unraveling complex challenges. My expertise lies in crafting sleek designs and writing efficient code that powers digital projects to success.</p>
 
-<h3 id="expertise"> 🤓 Specializing in :</h3> 
+<h3> 🤓 Specializing in :</h3> 
 
 <h4>🔴 Developing responsive web applications 👨🏻‍💻 <br/> 🔴 Designing user-friendly interfaces 🖌️ <br/> 🔴 Solving complex coding problems 💡 <br/> 🔴 Implementing effective design and SEO techniques for online growth 📈 <br/> 🔴 Crafting graphic design solutions 🎨<br/> 🔴 Creating engaging online and offline games 🎮</h4> 
 
-<p>I'm committed to continuous learning, pioneering digital innovation, and delivering high-end solutions.</p>
+<p align="justify">I'm committed to continuous learning, pioneering digital innovation, and delivering high-end solutions.</p>
 
-<h3 id="skill">🛠️ Tech Stack</h3>
+<h1>🛠️ Tech Stack</h1>
 
-<p>I possess expertise in web development, covering a range of technologies such as <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>JavaScript</strong>. Additionally, I am proficient in utilizing frameworks and libraries like <strong>React.js</strong>, <strong>Redux</strong>, <strong>Three.js</strong>, <strong>jQuery</strong>, etc. My skills extend to the effective use of <strong>Bootstrap</strong>, <strong>SASS</strong>, <strong>LESS</strong>, <strong>JSON</strong>, and <strong>XML</strong>. In addition to my proficiency in web technologies, I have hands-on experience in <strong>PHP</strong>, <strong>C</strong>, <strong>C++</strong>, and <strong>C#</strong> programming. I have successfully applied my knowledge of the <strong>Unity Game Engine</strong> to design and develop multiple games. For crafting visually appealing user interfaces and effects, I leverage design tools such as <strong>Figma</strong>, <strong>Illustrator</strong>, <strong>Adobe XD</strong>, and <strong>3ds Max</strong>. To ensure efficient code management and project collaboration, I employ <strong>Git</strong> and <strong>GitHub</strong>. My diverse skill set allows me to contribute effectively to a wide array of web development and programming projects.</p>
+<p align="justify">I possess expertise in web development, covering a range of technologies such as <strong>HTML5</strong>, <strong>CSS3</strong>, and <strong>JavaScript</strong>. Additionally, I am proficient in utilizing frameworks and libraries like <strong>React.js</strong>, <strong>Redux</strong>, <strong>Three.js</strong>, <strong>jQuery</strong>, etc. My skills extend to the effective use of <strong>Bootstrap</strong>, <strong>SASS</strong>, <strong>LESS</strong>, <strong>JSON</strong>, and <strong>XML</strong>. In addition to my proficiency in web technologies, I have hands-on experience in <strong>PHP</strong>, <strong>C</strong>, <strong>C++</strong>, and <strong>C#</strong> programming. I have successfully applied my knowledge of the <strong>Unity Game Engine</strong> to design and develop multiple games. For crafting visually appealing user interfaces and effects, I leverage design tools such as <strong>Figma</strong>, <strong>Illustrator</strong>, <strong>Adobe XD</strong>, and <strong>3ds Max</strong>. To ensure efficient code management and project collaboration, I employ <strong>Git</strong> and <strong>GitHub</strong>. My diverse skill set allows me to contribute effectively to a wide array of web development and programming projects.</p>
 
 ![Static Badge](https://img.shields.io/badge/HTML5%20-%20%23282828?style=for-the-badge&logo=html5&labelColor=%23363636&color=%23282828)&nbsp;
 ![Static Badge](https://img.shields.io/badge/CSS3%20-%20%23282828?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%23363636&color=%23282828)&nbsp;
@@ -38,3 +38,17 @@
 ![Static Badge](https://img.shields.io/badge/Adobe%20xd%20-%20%23282828?style=for-the-badge&logo=adobexd&labelColor=%23363636&color=%23282828)&nbsp;
 ![Static Badge](https://img.shields.io/badge/git%20-%20%23282828?style=for-the-badge&logo=git&labelColor=%23363636&color=%23282828)&nbsp;
 ![Static Badge](https://img.shields.io/badge/github%20-%20%23282828?style=for-the-badge&logo=github&labelColor=%23363636&color=%23282828)&nbsp;
+
+<h1>⚙️ GitHub Analytics</h1>
+<p align="center"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=simamojtahedi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> &nbsp; <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=simamojtahedi&layout=compact&langs_count=8&theme=dark"/>
+</p>
+
+<h1>🤝🏻 Get In Touch</h1>
+
+<p align="center">
+
+<a href="https://rezaexplains.com/">![Static Badge](https://img.shields.io/badge/website%20-%20%23282828?style=for-the-badge&logoColor=%23f0f0f0&labelColor=%23f0f0f0&color=%23282828&cacheSeconds=https%3A%2F%2Frezaexplains.com%2F)</a>
+<a href="mailto:azimifar.reza@gmail.com@gmail.com">![Static Badge](https://img.shields.io/badge/Gmail%20-%20%23282828?style=for-the-badge&logo=gmail&color=%23282828)
+</a>
+
+</p>
