@@ -49,7 +49,7 @@
 ![Static Badge](https://img.shields.io/badge/github%20-%20%23282828?style=for-the-badge&logo=github&labelColor=%23363636&color=%23282828)&nbsp;
 
 <h1>⚙️ GitHub Analytics</h1>
-<p align="center"><img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reza-azimifar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> &nbsp; <img height="180em" width="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reza-azimifar&layout=compact&langs_count=8&theme=dark"/>
+<p align="center"><img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reza-azimifar&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/> &nbsp; <img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reza-azimifar&layout=compact&langs_count=8&theme=dark"/>
 </p>
 
 <h1>🤝🏻 Get In Touch</h1>
